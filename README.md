@@ -3,8 +3,6 @@
 ## Jenkins in Kubernetes
 
 
-
-
 ### Deploye Jenkines Dependencies
 
 Run the command to deploye deployment
